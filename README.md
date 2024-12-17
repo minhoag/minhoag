@@ -4,14 +4,11 @@
 
 ## About Me
 
-I'm a passionate developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to solve problems and contribute to projects that make a difference.
+I'm a developer with interest in web development, open-source exploration, and learning new language. I love to solve problems and contribute to projects that make a difference.
 
-- 🌱 I’m currently learning **[insert technology or framework]**
-- 👯 I’m looking to collaborate on **open-source projects**
-- 🤔 I’m looking for help with **[insert topic you need help with]**
-- 💬 Ask me about **JavaScript, React, Python, and more!**
-- 📫 How to reach me: [minhoag@example.com](mailto:minhoag@example.com)
-- ⚡ Fun fact: [insert fun fact about yourself]
+- 🌱 I’m currently learning **Svelte & Ruby**
+- 💬 I'm improving in **JavaScript, React, Python!**
+- 📫 My email address: [wandaandita2003@gmail.com](mailto:wandaandita2003@gmail.com)
 
 ## My Skills
 
@@ -24,12 +21,10 @@ I'm a passionate developer with a keen interest in web development, open-source 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## GitHub Stats
 
@@ -38,8 +33,3 @@ I'm a passionate developer with a keen interest in web development, open-source 
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhoag&layout=compact&theme=radical)
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minhoag)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/minhoag)
