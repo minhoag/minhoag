@@ -8,7 +8,7 @@ I'm a developer with interest in web development, open-source exploration, and l
 
 - 🌱 I’m currently learning **Svelte & Ruby**
 - 💬 I'm improving in **JavaScript, React, Python!**
-- 📫 My email address: [wandaandita2003@gmail.com](mailto:wandaandita2003@gmail.com)
+- 📫 My email address: [wandaandita2003@gmail.com](mailto:nhoang120899@gmail.com)
 
 ## My Skills
 
