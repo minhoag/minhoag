@@ -6,7 +6,7 @@ Fullstack Developer
 
 * 🌍  I'm based in Ho Chi Minh City
 * 🖥️  See my portfolio at [Portfolio](http://gnoah-portfolio.vercel.app/)
-* ✉️  You can contact me at [10221092@student.vgu.edu.vn](mailto:10221092@student.vgu.edu.vn)
+* ✉️  You can contact me at [nhoang120899@gmail.com](nhoang120899@gmail.com)
 * 🚀  I'm currently working on [Chat GPT - Clone](http://chatgpt4o-clone.vercel.app/)
 * 🧠  I'm learning NestJS
 
