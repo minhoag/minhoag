@@ -1,4 +1,4 @@
-![]([https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif](https://media1.tenor.com/m/6syojQQwPvMAAAAC/hi-hello.gif)) Hi My name is Hoang
+![](https://media1.tenor.com/m/6syojQQwPvMAAAAC/hi-hello.gif) Hi My name is Hoang
 =========================================================================================================================================
 
 Fullstack Developer
