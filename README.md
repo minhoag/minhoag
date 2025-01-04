@@ -1,35 +1,30 @@
-# Hi there, I'm Minhoag! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nguyen Minh Hoang
+=========================================================================================================================================
 
-![GitHub followers](https://img.shields.io/github/followers/minhoag?style=social) ![GitHub stars](https://img.shields.io/github/stars/minhoag?style=social)
+Fullstack Developer
+-------------------
 
-## About Me
+* 🌍  I'm based in Ho Chi Minh City
+* 🖥️  See my portfolio at [Portfolio](http://gnoah-portfolio.vercel.app/)
+* ✉️  You can contact me at [10221092@student.vgu.edu.vn](mailto:10221092@student.vgu.edu.vn)
+* 🚀  I'm currently working on [Chat GPT - Clone](http://chatgpt4o-clone.vercel.app/)
+* 🧠  I'm learning NestJS
 
-I'm a developer with interest in web development, open-source exploration, and learning new language. I love to solve problems and contribute to projects that make a difference.
+### Skills
 
-- 🌱 I’m currently learning **Svelte & Ruby**
-- 💬 I'm improving in **JavaScript, React, Python!**
-- 📫 My email address: [nhoang120899@gmail.com](mailto:nhoang120899@gmail.com)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+</p>
 
-## My Skills
+### Socials
 
-### Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="left"> <a href="https://www.github.com/minhoag" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+### Badges
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<b>My GitHub Stats</b>
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<a href="http://www.github.com/minhoag"><img src="https://github-readme-stats.vercel.app/api?username=minhoag&show_icons=true&hide=prs,issues,contribs&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="minhoag's GitHub stats" /></a>
 
-## Top Languages
+<a href="http://www.github.com/minhoag"><img src="https://github-readme-streak-stats.herokuapp.com/?user=minhoag&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minhoag&layout=compact&theme=radical)
+<a href="https://github.com/minhoag" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhoag&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
