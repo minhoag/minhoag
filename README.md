@@ -35,7 +35,6 @@ NestJS              1 hrs 12 mins   █████░░░░░░░░░�
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhoag&show_icons=true&theme=dark#gh-dark-mode-only" />
       <br />
       <br />
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=minhoag&theme=dark&hide_border=false" />
     </td>
     <td width="50%" align="center">
       <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=minhoag&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
