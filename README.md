@@ -17,8 +17,8 @@
 
 ```text
 NextJS              5 hrs 42 mins   ████████████▓░░░░░░░░░░░░░░   47.50 %
-Vite                3 hrs 31 mins   ███████████▓░░░░░░░░░░░░░░░   29.30 %
-Svelte              1 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░░░   13.19 %
+Vite                3 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░░░   23.30 %
+RemixJS              1 hrs 35 mins  ███████▓░░░░░░░░░░░░░░░░░░░   19.19 %
 NestJS              1 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 ```
 ## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="50px" height="50px"> What I do in the other 5 hours
