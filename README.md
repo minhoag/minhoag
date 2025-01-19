@@ -37,7 +37,7 @@ NestJS              1 hrs 12 mins   █████░░░░░░░░░�
       <br />
     </td>
     <td width="50%" align="center">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhoag&layout=compact" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhoag&layout=compact&theme=dark" />
     </td>
   </tr>
 </table>
