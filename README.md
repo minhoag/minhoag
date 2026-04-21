@@ -3,11 +3,9 @@
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="50px" height="50px"></img> About Me
-- Currently Building: High-performance AI Chatbot architectures and an LMS platform.
-- Deep Diving: Shifting focus to Rust for systems programming and mastering NestJS for enterprise backends.
-- Specialization: Migrating legacy apps to TanStack (Query/Router) and optimizing for 1M+ monthly active users.
+- Currently: Building e-commerce platforms.
+- Learning: Shifting focus to Rust for systems programming and mastering NestJS for enterprise backends.
 - Daily Stack: .ts, .tsx, .rs, .py, .svelte, .sql
-- Workflow: I strictly manage my environment with tmux.
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" width="50px" height="50px"></img> Tech Stack
 <p align="left">
